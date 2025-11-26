@@ -59,7 +59,7 @@ class _SplashScreenState extends State<SplashScreen>
               ),
               SizedBox(height: 20),
               Text(
-                'Bienvenue. Chargement en cours...',
+                'Bienvenue sur I-GESTION. Chargement en cours...',
                 style: TextStyle(
                   color: AppColors.textColor,
                   fontSize: 18,
