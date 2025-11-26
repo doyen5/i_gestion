@@ -9,7 +9,7 @@ class ChooseMetierScreen extends StatelessWidget {
     {'label': 'Réparation smartphone', 'key': 'reparation'},
   ];
 
-  const ChooseMetierScreen({super.key});
+  ChooseMetierScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
